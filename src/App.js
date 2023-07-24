@@ -5,7 +5,7 @@ import News from "./component/News";
 import LoadingBar from 'react-top-loading-bar'
 
 import {
-  BrowserRouter as Router, Routes, Route
+  HashRouter as Router, Routes, Route
 } from "react-router-dom";
 export default class App extends Component {
   pageSize = 9;
