@@ -6,7 +6,7 @@ export class NewsItem extends Component {
         return (
             <div className='my-3'>
                 <div className="card" >
-                    <div style={{display:'fles',
+                    <div style={{
                                 display:'flex-end',
                                 position:'absolute',
                                 right:'0',
